@@ -1,0 +1,30 @@
+Hi,
+we have checked the functionality of milestone 1 and unfortunately I have to tell you that it still
+not working. In fact after having shared the documentation with clear and simple reqiusiti
+you seem to have not yet understood the correct flow of the various processes.
+
+Below we describe an example of how the process flow must be related to milestone 1.
+
+1- User A on 03 March creates an event E which will take place on 5 March 2021 from 10:00 AM to 17:00 PM in Rome, via Colosseo n°1
+2- User B opens event E and on March 4 clicks on the button LETGO! button (no notification should arrive here)
+
+3- On March 5, 2021 at 10:00 AM, when the event E starts, the system will send a notification to all users who have put LETSGO! on the event E
+   to confirm their participation. Then user B will receive a notification from the system asking if user B is at event B.
+4- User B opens and clicks on the notification.
+5- The system shows User B a popup asking him if he wants to CONFIRM his attendance at Event B.
+6- User B clicks on CONFIRM!
+7- The system verifies through the geolocation if the user is at the event. So the system verifies if the position of user B is at a maximum of
+   maximum 100mt from the position of the event B. The user has confirmed his presence and therefore the notification should no longer be active.
+8- The system confirms the presence of user B at event E. At the end of event E, the system will send a notification asking user B for feedback.
+8- The system does not confirm the presence of user B at event E. The user B through the use of the notification can try to confirm his presence at the event E
+   until 17:00 on March 5, 2021, when event E ends.
+9- If user B has confirmed his presence at event E then he will receive the notification asking him to provide feedback to event B.
+10- User B opens the notification, fills out the form and submits it. The user has sent the feedback and therefore the notification should no longer be active.
+11- The system saves the feedback data.
+12- END
+
+These are the steps that the flow should have.
+
+We ask you to fix the flow as described and summarized above.
+We ask you if you do not understand to ask for information and clarification.
+We ask that you test before sharing with us the functionality to be tested.
