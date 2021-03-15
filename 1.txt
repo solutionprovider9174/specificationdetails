@@ -1,0 +1,26 @@
+Please divide the following tasks to equal milestones
+www.carboncreditsgroup.com
+
+
+This is the target website that I want to make similar http://www.timing-carbon.com/
+  and TROKT AP www.trokt.com
+   that is already installed and integrated operates very much this platform https://opentimestamps.org/
+
+
+Make sure the API From this platform has been installed and integrated properly  https://www.trokt.com
+ been integrated and that I can upload files and obtain results as per information found on the platform and the document has timestamp from TROKT.com
+ similar to this platform https://opentimestamps.org/
+
+a link to the documents on the platform must be displayed  on the website similar to the attachment displayed similar to https://opentimestamps.org/
+
+
+Add Google Translate to Menu Tab so that the website can be translated to any language 
+
+Remove Dummy Content and replace with  CTA buttons and text submitted by client
+Embedd About US page from PDF 
+Change Tab titles for example 
+Change News to "Resources"  with 3 Drop down menus  - News, Documents, Videos exactly like this target website http://www.timing-carbon.com/
+
+Test according to UX design and make sure all links work and are user friendly
+add metatags for SEO
+website www.carboncreditsgroup.com
